@@ -81,11 +81,56 @@ body{
    float: right;
  }
 
- .h5{
+ h5{
     text-align: center ;
     font-size: 30px; 
     font-style:normal;
     color: black; 
+ }
 
+ .was-validated{
 
+    font-size: 30px; 
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white; 
+    font-style: normal;
+ }
+
+ .needs-validation{
+
+    font-size: 20px; 
+    text-align: left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white; 
+    font-style: normal;
+ }
+
+ h4{
+    font-size: 30px; 
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white; 
+    font-style: normal;
+ }
+
+ h6{
+    font-size: 30px; 
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white; 
+    font-style: normal;
+ }
+
+ .form-check{
+    
+    font-size: 20px; 
+    font-style:normal;
+    color: white; 
+ }
+
+ .form-group {
+    font-size: 20px; 
+    font-style:normal;
+    color: white; 
  }
