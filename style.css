@@ -1,0 +1,91 @@
+.navbar{
+    font-size: 60px;
+    color:white;
+    text-align: center; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+
+h1{
+    font-size: 50px; 
+    text-align: right;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white; 
+    font-style: italic;
+}
+
+.btn:hover{
+    color: white;
+    background-color: black;
+}
+
+h2{
+    text-align: center ;
+    font-size: 30px; 
+    font-style:italic;
+    color: white; 
+}
+
+h3{
+    text-align: center;
+}
+
+p{    
+    color: white;
+    text-align:center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 7px;
+}
+
+body{
+    background-color:black;  
+
+}
+
+.container-fluid{
+
+    font-size: 40px; 
+    color: white; 
+    text-align: center;
+    background-color: white;
+}
+
+.carousel{
+
+    font-size: 30px; 
+    color:white; 
+    text-align: center;
+}
+
+.btn:hover{
+    color: white;
+    background-color: black;
+}
+    h1{
+        text-align: center;
+
+}
+
+.container{
+    margin: 0;
+    max-width: 100%;
+    border-left: 45px solid black;
+    border-right: 45px solid black;
+}
+
+.list-group-item{
+   display: flex;
+ }
+
+ .derecha{
+   float: right;
+ }
+
+ .h5{
+    text-align: center ;
+    font-size: 30px; 
+    font-style:normal;
+    color: black; 
+
+
+ }
